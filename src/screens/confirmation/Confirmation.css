@@ -1,0 +1,50 @@
+.formControl {
+  width: 240px;
+}
+
+.coupon-container {
+  display: flex;
+}
+
+.confirm {
+  display: flex;
+}
+
+.confirmLeft {
+  width: 40%
+}
+
+.marginApply {
+  margin: 16px 0px 0px 16px;
+}
+
+.confirmation {
+  text-align: center;
+}
+
+.cardStyle {
+  width: 380px;
+  padding: 32px 32px 32px 32px;
+  margin: auto;
+  text-align: left;
+}
+
+.marginTop16 {
+  margin-top: 16px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.back {
+  cursor: pointer;
+}
+
+.snackbar {
+  margin-top: 64px;
+}
+
+.message {
+  margin: 4px 0px 0px 16px
+}
